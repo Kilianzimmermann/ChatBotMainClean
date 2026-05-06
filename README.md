@@ -1,0 +1,1 @@
+Simple Chatbot designed for CSI-2999-11568.202610-Sophomore Project. Using [https://github.com/OpenAI](https://github.com/MacPaw/OpenAI/) For personal use, add your own API Key in order for App to be functional.
